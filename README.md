@@ -1,2 +1,2 @@
 # Survey-Form
-Survey Form adaptable in html and css
+Survey Form adaptable in HTML and CSS
